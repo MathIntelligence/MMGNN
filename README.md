@@ -29,7 +29,7 @@ After downloading, place the `dataset/` folder in the project root
 
 **Basic command:**
 ```bash
-python train.py --mode <2d|3d> --data_path <path-to-csv> --dataset_type <classification|regression|multiclass> --agg <sum|mean|attn>
+python train.py --mode <2d|3d> --data_path <path-to-csv> --dataset_type <classification|regression> --agg <sum|mean|attn>
 ```
 
 **Key arguments:**
