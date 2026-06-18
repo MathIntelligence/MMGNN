@@ -1,6 +1,9 @@
 # MMGNN: Multi-level, multi-color graph neural networks for molecular property prediction
 
-A graph neural network framework for molecular property prediction supporting both 2D molecular graphs and 3D geometric features.
+A graph neural network framework for molecular property prediction supporting both 2D molecular graphs and 3D geometric features. This is our framework
+
+<img width="2161" height="1578" alt="image" src="https://github.com/user-attachments/assets/acd1400e-bf65-4eea-8f46-aa8420519d2c" />
+
 
 ## Requirements
 
