@@ -1,4 +1,4 @@
-# MMGNN: Multi-level Multi-color Mathematical Graph Neural Networks
+# MMGNN: Multi-level, multi-color graph neural networks for molecular property prediction
 
 A graph neural network framework for molecular property prediction supporting both 2D molecular graphs and 3D geometric features.
 
